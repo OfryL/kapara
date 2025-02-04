@@ -1,0 +1,18 @@
+{
+  "name": "kapara",
+  "version": "1.0.2",
+  "description": "A simple package that says Thx Kapara!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["kapara", "thanks"],
+  "license": "MIT",
+  "postinstall": "node index.js",
+  "bugs": {
+    "url": "https://github.com/OfryL/kapara/issues"
+  },
+  "homepage": "https://github.com/OfryL/kapara",
+  "repository": "https://github.com/OfryL/kapara",
+  "author": "ofry linkovsky <ofryli@gmail.com>"
+} 
